@@ -1,0 +1,146 @@
+body
+{
+  margin: 0;
+  color:#40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #effffb;
+}
+.nathol
+{
+  border-radius: 100%;
+  width:25%;
+  margin-top:100px;
+}
+.intro
+{
+  width:30%;
+  margin:0 auto;
+  line-height:2;
+}
+hr
+{
+  border:dotted;
+  border-color:#EAF6F6;
+  border-bottom:none;
+  width:4%;
+  margin:100px auto;
+
+}
+
+h1
+{
+  font-size:5.625rem;/*100%=16px=1em*/
+  /*Auto-To make it in the center although the width is not 100%*/
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  color:#66BFBF;
+  margin-bottom:50px;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+a
+{
+  color:#11999E;
+}
+
+.Top_Container {
+  background-color: #effffb;
+  padding-top: 100px;
+  position: relative;
+}
+.profession
+{
+  font-weight: normal;
+}
+.bottom-container
+{
+  background-color:#66BFBF;
+  padding:50px 0 20px;
+}
+.first-img {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.second-img {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+#my
+{
+  zoom: 80%;
+}
+.pro {
+  text-decoration: underline;
+}
+.skill-row
+{
+  width:50%;
+  margin:100px auto 300px auto;
+  line-height:2;
+  text-align:left;
+}
+.ping-pong
+{
+  float:left;
+  margin-right:30px;
+}
+.cooking
+{
+  float:right;
+  margin-right:30px;
+}
+.contact-msg
+{
+  width:40%;
+  margin:40px auto 60px;
+}
+.contact-me
+{
+  margin-top:100px;
+  margin-bottom:100px;
+}
+a
+{
+  color:#11999E;
+  font-family:'Montserrat';
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover
+{
+  color:#EAF6F6;
+}
+.btn {
+  background-color:#11999E;
+	border-radius:16px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:'Montserrat', sans-serif;;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+
+.myButton:hover {
+	color:white;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
